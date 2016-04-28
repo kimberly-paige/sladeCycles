@@ -1,0 +1,20 @@
+body,
+html {
+   font-family: "Montserrat", sans-serif;
+   margin: 0px;
+   padding: 0px;
+}
+
+.jumbotron {
+   padding: 0px;
+   margin: 0px;
+   height: 100vh;
+}
+
+.container {
+   color: #fff;
+   position: absolute;
+   left: 50px;
+   top: 20px;
+   z-index: 500;
+}
